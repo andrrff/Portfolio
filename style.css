@@ -1,12 +1,12 @@
 body {
   background: #e16a3f;
   background: #1abc9c;
-  background: linear-gradient(to bottom right, #7a33ff 1%, #ccf7ff 100%);
+  background: #7a33ff;
 }
 
 html
 {
-  background: linear-gradient(to bottom right, #7a33ff 1%, #ccf7ff 100%);
+  background: #7a33ff;
   height: 40rem;
 }
 
